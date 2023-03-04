@@ -1,5 +1,6 @@
-package main
+package integers
 
-func main() {
-
+// Add takes two int and return the sum of them.
+func Add(x, y int) int {
+	return x + y
 }
